@@ -1,9 +1,8 @@
 # PSR: Augmented Reality Paint
 Augmented Reality Paint project for the course of Programming of Robotic Systems, 2022/2023.
 
-Students:
-- Isabel Rosário (NMec 93343)
-- João Bastos (NMec 98245)
+Student:
+- Frederico Martins (NMec 92760)
 
 ## Usage Manual
 
